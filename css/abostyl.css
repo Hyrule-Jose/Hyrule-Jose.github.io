@@ -23,14 +23,16 @@ nav ul li{
 }
 
 p{
-	text-align: right;
+	text-align:left;
 	padding: 5px;
 }
+
 #pic {
-	width:500px;
+	width: 300px;
 	height: auto;
 	padding: 5px;
-	margin-left: 1%;
+	display: block;
+	margin-left: auto;
 	margin-right: auto;
-	vertical-align: middle;
+	width: 30%
 }
